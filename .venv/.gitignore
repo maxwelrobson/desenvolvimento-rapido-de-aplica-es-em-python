@@ -1,0 +1,8 @@
+# Ignorar ambiente virtual do Python
+venv/
+.venv/
+env/
+
+# Ignorar o arquivo de senhas do banco de dados
+.env
+DB.env
